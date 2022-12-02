@@ -49,3 +49,7 @@
 ![WhatsApp Image 2022-12-02 at 17 26 34](https://user-images.githubusercontent.com/110182832/205350585-f756be91-5b74-4151-aa12-1eaae0eaef2c.jpeg)
 
 <img width="527" alt="cron job" src="https://user-images.githubusercontent.com/110182832/205349817-be81e0e1-fcda-4c4a-9298-65c08bcb265e.png">
+
+Youtube video for: (In Hindi)
+Scripts: https://www.youtube.com/watch?v=UYstAfqkLtg&list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh&index=4
+CRONJOB: https://www.youtube.com/watch?v=aolKiws4Joc&list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh&index=6
